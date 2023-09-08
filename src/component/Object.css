@@ -1,0 +1,9 @@
+.objectbody{
+    margin: 0 auto;
+    text-align: center;
+}
+.bold-label{
+    font-weight: bold;
+    display: block;
+    margin: 5px;
+}
